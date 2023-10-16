@@ -10,7 +10,6 @@ import {
 } from "react-native-paper";
 import Navigation from "./src/components/core/navigation/index";
 import store from "./src/store/configureStore";
-import React from "react";
 
 const theme = {
   ...DefaultTheme,
